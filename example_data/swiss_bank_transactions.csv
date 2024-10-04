@@ -1,5 +1,5 @@
-time,location,transaction_type,amount,currency,account_id
-2023-02-26 11:05:00,Lausanne,withdrawal,2434.85,USD,4289
+time,location,transaction_type,amount,currency,account_id,device_temperature,device_type
+2023-02-26 11:05:00,Lausanne,withdrawal,2434.85,USD,4289,
 2023-02-27 00:19:00,Zurich,deposit,3856.44,CHF,5787
 2023-01-16 01:44:00,Geneva,withdrawal,3630.08,EUR,4161
 2023-03-06 22:14:00,Lausanne,transfer,885.75,USD,8340
